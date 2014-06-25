@@ -1,4 +1,0 @@
-aprendiendo-git-hub
-===================
-
-Giovanni
